@@ -1,6 +1,6 @@
 # Diagnostics Simulation
 
-This repository simulates an API client for diagnostic devices, including Hemostasis and Point of Care testing devices. The simulation leverages mocking techniques to mimic the behavior of Werfen's endpoints using mock data.
+This repository simulates an API client for diagnostic devices, including Hemostasis and Point of Care testing devices. The simulation leverages mocking techniques to mimic the behavior of firms endpoints using mock data.
 
 ## Project Structure
 
