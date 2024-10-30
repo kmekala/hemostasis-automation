@@ -1,4 +1,4 @@
-# Werfen Diagnostics Simulation
+# Diagnostics Simulation
 
 This repository simulates an API client for Werfen's diagnostic devices, including Hemostasis and Point of Care testing devices. The simulation leverages mocking techniques to mimic the behavior of Werfen's endpoints using mock data.
 
